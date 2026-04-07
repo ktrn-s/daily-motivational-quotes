@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    height: 100vh;
+
+    background: linear-gradient(135deg, #1e1e2f, #3a3a6a);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Glass card */
+#container {
+    width: 90%;
+    max-width: 700px;
+    padding: 40px;
+
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(15px);
+
+    border-radius: 20px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.4);
+
+    text-align: center;
+    color: rgba(255,255,255,0.9);}
+
+/* Title */
+h1 {
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+/* Quote */
+#par {
+    font-size: 22px;
+    line-height: 1.6;
+    margin: 20px 0;
+}
+
+/* Button */
+#btn {
+    padding: 12px 30px;
+    font-size: 18px;
+
+    border: none;
+    border-radius: 10px;
+
+    background: #ffd369;
+    color: #1e1e2f;
+
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#btn:hover {
+    transform: translateY(-2px);
+    background: #ffe08a;
+}
