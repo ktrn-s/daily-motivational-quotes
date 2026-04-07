@@ -16,7 +16,7 @@ The application uses subtle animations to make the experience more dynamic, incl
 
 Live Demo
 
-###
+https://motivational-quotes-daily.netlify.app/
 
 Screenshot
 
