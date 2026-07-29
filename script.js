@@ -35,5 +35,6 @@ button.addEventListener("click", () => {
             yoyo: true,
             repeat: 1
         });
-showRandomQuote}); 
+showRandomQuote();
+}); 
 
