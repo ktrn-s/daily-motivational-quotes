@@ -57,3 +57,34 @@ h1 {
     background: #ffe08a;
     box-shadow:0 0 20px rgba(255, 210, 105, 0.301);
 }
+
+
+body{
+    background:linear-gradient(
+        -45deg,
+        #1e1e2f,
+        #3a3a6a,
+        #252547,
+        #40407c
+    );
+
+    background-size:400% 400%;
+
+    animation:gradientMove 12s ease infinite;
+}
+
+@keyframes gradientMove{
+
+0%{
+background-position:0% 50%;
+}
+
+50%{
+background-position:100% 50%;
+}
+
+100%{
+background-position:0% 50%;
+}
+
+}

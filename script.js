@@ -5,6 +5,7 @@ gsap.from("#btn",
     { scale: 0.8, rotation: 360, duration: 1.2, ease: "back.out(1.7)" }
 );
 
+
 const button = document.querySelector("#btn");
 const par = document.querySelector("#par");
 
