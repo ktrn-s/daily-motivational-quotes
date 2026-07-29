@@ -26,5 +26,7 @@ function showRandomQuote() {
 
 showRandomQuote(); 
 
-button.addEventListener("click", showRandomQuote); 
+button.addEventListener("click", () => {
+    
+showRandomQuote}); 
 
