@@ -27,6 +27,13 @@ function showRandomQuote() {
 showRandomQuote(); 
 
 button.addEventListener("click", () => {
-    
+    gsap.fromTo("#btn",
+        { scale: 1 },
+        {
+            scale: 0.9,
+            duration: 0.1,
+            yoyo: true,
+            repeat: 1
+        });
 showRandomQuote}); 
 
