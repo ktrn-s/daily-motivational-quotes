@@ -15,6 +15,11 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.subtitle{
+    opacity:.75;
+    margin-bottom:20px;
+}
 /* Glass card */
 #container {
     width: 90%;
