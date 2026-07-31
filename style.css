@@ -15,7 +15,9 @@ body {
     justify-content: center;
     align-items: center;
 }
-
+h1 {
+    color: white;
+}
 .subtitle{
     color: white;
     opacity:.75;
