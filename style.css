@@ -1,8 +1,6 @@
 body {
     margin: 0;
     font-family: "Montserrat", sans-serif;
-    height: 100vh;
-
     background: linear-gradient(135deg, #1e1e2f, #3a3a6a);
     /* display: flex;
     justify-content: center;
@@ -15,6 +13,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 20px;
 }
 h1 {
     color: white;
