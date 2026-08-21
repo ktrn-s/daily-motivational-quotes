@@ -27,7 +27,6 @@ const quotes = [
 
 function showRandomQuote() {
     let  randomQuotes = quotes[Math.floor(Math.random()*quotes.length)];
-    par.style.display ="block";
     par.textContent = randomQuotes; 
 }
 
