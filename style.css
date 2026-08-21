@@ -1,13 +1,7 @@
 body {
     margin: 0;
     font-family: "Montserrat", sans-serif;
-    background:linear-gradient(
-        -45deg,
-        #1e1e2f,
-        #3a3a6a,
-        #252547,
-        #40407c
-    );
+    background:linear-gradient(-45deg, #1e1e2f,#3a3a6a,#252547,#40407c);
     background-size:400% 400%;
     animation:gradientMove 12s ease infinite;
 }
@@ -32,7 +26,6 @@ h1 {
     opacity:.75;
     margin-bottom:40px;
 }
-/* Glass card */
 #container {
     width: 90%;
     max-width: 700px;
@@ -51,22 +44,15 @@ h1 {
 
     transition:.35s;
 }
-
 #container:hover{
-
-transform:translateY(-4px);
-
-box-shadow:0 15px 40px rgba(0,0,0,.35);
-
+    transform:translateY(-4px);
+    box-shadow:0 15px 40px rgba(0,0,0,.35);
 }
-
 #par {
     font-size: 22px;
     line-height: 1.6;
     margin: 20px 0;
 }
-
-/* Button */
 #btn {
     padding: 12px 30px;
     font-size: 18px;
@@ -86,44 +72,23 @@ box-shadow:0 15px 40px rgba(0,0,0,.35);
     background: #ffe08a;
     box-shadow:0 0 20px rgba(255, 210, 105, 0.301);
 }
-
-
 @keyframes gradientMove{
-
-0%{
-background-position:0% 50%;
-}
-
-50%{
-background-position:100% 50%;
-}
-
-100%{
-background-position:0% 50%;
-}
-
+0%{background-position:0% 50%;}
+50%{background-position:100% 50%;}
+100%{background-position:0% 50%;}
 }
 
 @media (max-width:700px){
-
 h1{
-font-size:34px;
+    font-size:34px;
 }
-
 .subtitle{
-font-size:15px;
+    font-size:15px;
 }
-
 #container{
-
-padding:25px;
-
+    padding:25px;
 }
-
 #par{
-
-font-size:18px;
-
+    font-size:18px;
 }
-
 }

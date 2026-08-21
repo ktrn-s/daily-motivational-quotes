@@ -1,21 +1,7 @@
-gsap.from("#container", 
-    {opacity: 0, scale: 0.8, y: -20, duration: 1.5, ease: "power2.out"}
-);
-gsap.from("#btn", 
-    { scale: 0.8, rotation: 360, duration: 1.2, ease: "back.out(1.7)" }
-);
-
-gsap.from("h1",{
-    opacity:0,
-    y:-40,
-    duration:1
-});
-
-gsap.from(".subtitle",{
-    opacity:0,
-    delay:.3,
-    y:-20
-});
+gsap.from("#container", {opacity: 0, scale: 0.8, y: -20, duration: 1.5, ease: "power2.out"});
+gsap.from("#btn", { scale: 0.8, rotation: 360, duration: 1.2, ease: "back.out(1.7)" });
+gsap.from("h1",{opacity:0,y:-40, duration:1});
+gsap.from(".subtitle",{opacity:0,delay:.3, y:-20});
 
 
 const button = document.querySelector("#btn");
