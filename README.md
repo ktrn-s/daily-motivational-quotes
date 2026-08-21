@@ -11,8 +11,7 @@ It provides a clean, user-friendly interface where users can:
 
 The application uses subtle animations to make the experience more dynamic, including:  
 - Fade and scale-in for the main container  
-- Spin and bounce effects for the “New Quote” button  
-- Slide and scale effects when a new quote appears 
+- Spin and bounce effects for the “New Quote” button
 
 Live Demo
 
