@@ -23,7 +23,7 @@ const par = document.querySelector("#par");
 
 const quotes = [
 "«And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about». — Haruki Murakami, Kafka on the Shore.",
-"Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely». - Roy T. Bennett, The Light in the Heart.",
+"«Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely». - Roy T. Bennett, The Light in the Heart.",
 "«Don't be pushed around by the fears in your mind. Be led by the dreams in your heart». -  Roy T. Bennett, The Light in the Heart.",
 "«Though nobody can go back and make a new beginning... Anyone can start over and make a new ending». - Chico Xavier",
 "«If there's a single lesson that life teaches us, it's that wishing doesn't make it so». - Santosh Kalwar",
