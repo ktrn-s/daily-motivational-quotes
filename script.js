@@ -53,6 +53,6 @@ console.log(copyBtn)
             copyBtn.TextContent = originalText;
         }, 1500);
     }  catch (err) {
-        console.error("Failed to copy quote:", err)
+        console.error("Failed to copy quote:", err);
     }
 })
