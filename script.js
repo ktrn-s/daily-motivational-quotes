@@ -44,7 +44,7 @@ showRandomQuote();
 
 
 console.log(copyBtn)
-.copyBtn.addEventListener("click", async () => {
+copyBtn.addEventListener("click", async () => {
     try {
         await navigator.clipboard.writeText(par.TextContent);
         const originalText = copyBtn.textContent;
@@ -55,4 +55,4 @@ console.log(copyBtn)
     }  catch (err) {
         console.error("Failed to copy quote:", err);
     }
-})
+});
