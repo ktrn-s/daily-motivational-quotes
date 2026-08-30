@@ -40,10 +40,7 @@ button.addEventListener("click", () => {
         { scale: 0.9,duration: 0.1,yoyo: true, repeat: 1});
 showRandomQuote();
 }); 
-
-
-
-console.log(copyBtn)
+// copy btn 
 copyBtn.addEventListener("click", async () => {
     try {
         await navigator.clipboard.writeText(par.textContent);
