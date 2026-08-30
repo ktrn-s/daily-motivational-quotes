@@ -14,6 +14,8 @@ gsap.from(".subtitle", {
 
 const button = document.querySelector("#btn");
 const par = document.querySelector("#par");
+const copyBtn = document.querySelector("#copyBtn");
+
 
 const quotes = [
     "«And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about». — Haruki Murakami, Kafka on the Shore.",
@@ -39,3 +41,9 @@ button.addEventListener("click", () => {
 showRandomQuote();
 }); 
 
+
+
+console.log(copyBtn)
+.copyBtn.addEventListener("click", async () => {
+    
+})
