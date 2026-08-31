@@ -72,6 +72,11 @@ h1 {
     background: #ffe08a;
     box-shadow:0 0 20px rgba(255, 210, 105, 0.301);
 }
+
+#copyBtn {
+    
+}
+
 @keyframes gradientMove{
 0%{background-position:0% 50%;}
 50%{background-position:100% 50%;}
