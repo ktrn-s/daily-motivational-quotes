@@ -75,12 +75,21 @@ h1 {
 
 #copyBtn {
     margin-top: 20px;
-    background-color: transparent; 
-    color:  wheat;
-    border: none;
+    padding: 8px 16px;
+    background-color: transparent;
+    color: wheat;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    transition: all 0.25s ease;
+    border: 1px solid rgba(245, 222, 179, 0.118);
+    border-radius: 8px;
 }
 #copyBtn:hover {
     cursor: pointer;
+    border: 1px solid rgba(245, 222, 179, 0.3);
+    border-radius: 8px;
+    border-color: rgba(245, 222, 179, 0.6);
+    background-color: rgba(245, 222, 179, 0.08);
 }
 @keyframes gradientMove{
 0%{background-position:0% 50%;}
