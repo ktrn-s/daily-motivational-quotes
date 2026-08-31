@@ -74,9 +74,14 @@ h1 {
 }
 
 #copyBtn {
-    
+    margin-top: 20px;
+    background-color: transparent; 
+    color:  wheat;
+    border: none;
 }
-
+#copyBtn:hover {
+    cursor: pointer;
+}
 @keyframes gradientMove{
 0%{background-position:0% 50%;}
 50%{background-position:100% 50%;}
