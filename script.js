@@ -12,6 +12,7 @@ gsap.from(".subtitle", {
 });
 
 
+
 const button = document.querySelector("#btn");
 const par = document.querySelector("#par");
 const copyBtn = document.querySelector("#copyBtn");
