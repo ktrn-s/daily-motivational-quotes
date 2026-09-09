@@ -52,5 +52,5 @@ This project strengthened my understanding of:
 Future improvements could include:
 
 - Adding more quotes dynamically from an external API
-- Allowing users to share quotes on social media...
+- Allowing users to share quotes on social media
 
