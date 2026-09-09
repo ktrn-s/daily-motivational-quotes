@@ -34,7 +34,7 @@ No additional setup is required.
 
 1. Clone the repository:
  bash 
-git clone https://... 
+git clone https://github.com/ktrn-s/daily-motivational-quotes.git
 
 2. Open the project folder and open `index.html` in your browser.
 
@@ -53,4 +53,5 @@ Future improvements could include:
 
 - Adding more quotes dynamically from an external API
 - Allowing users to share quotes on social media
+
 
