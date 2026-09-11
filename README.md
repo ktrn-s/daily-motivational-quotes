@@ -49,7 +49,7 @@ This project strengthened my understanding of:
 - Using GSAP for professional, smooth animations
 - Combining interactivity and design for better user experience
 
-Future improvements could include:
+Future improvements could include
 
 - Adding more quotes dynamically from an external API
 - Allowing users to share quotes on social media
