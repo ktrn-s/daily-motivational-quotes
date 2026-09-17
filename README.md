@@ -53,5 +53,6 @@ Future improvements could include:
 
 - Adding more quotes dynamically from an external API
 - Allowing users to share quotes on social media
-- Adding 
+- Add categories/tags (motivation, resilience, love, etc.)
+
 
