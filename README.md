@@ -57,3 +57,4 @@ Future improvements could include:
 - Dark/light theme toggle
 - Social media sharing buttons (Twitter/X, Facebook) pre-filled with the quote text
 - Download the quote as a shareable image (canvas-generated card with quote + author)
+- Author bio or book link on hover/click
