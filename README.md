@@ -56,4 +56,4 @@ Future improvements could include:
 - Add categories/tags (motivation, resilience, love, etc.) with a filter or dropdown
 - Dark/light theme toggle
 - Social media sharing buttons (Twitter/X, Facebook) pre-filled with the quote text
-
+- Download the quote as a shareable image (canvas-generated card with quote + author)
