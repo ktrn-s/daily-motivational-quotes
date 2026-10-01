@@ -55,4 +55,3 @@ Future improvements could include:
 - Allowing users to share quotes on social media
 - Add categories/tags (motivation, resilience, love, etc.) with a filter or dropdown
 - Dark/light theme toggle
-- Social media sharing buttons (Twitter/X, Facebook) pre-filled with the quote text
