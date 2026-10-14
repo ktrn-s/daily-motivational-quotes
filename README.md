@@ -51,3 +51,11 @@ This project strengthened my understanding of:
 
 Future improvements could include:
 
+- Adding more quotes dynamically from an external API
+- Allowing users to share quotes on social media
+- Add categories/tags (motivation, resilience, love, etc.) with a filter or dropdown
+- Dark/light theme toggle
+- Social media sharing buttons (Twitter/X, Facebook) pre-filled with the quote text
+- Download the quote as a shareable image (canvas-generated card with quote + author)
+- Author bio or book link on hover/click
+- Favorite/save quotes (localStorage) 
